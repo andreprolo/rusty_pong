@@ -27,7 +27,7 @@ You can randomly change the colors by pressing `C` key:
 <hr>
 
 ## Running the game
-You can [click here](https://github.com/andreprolo/rusty_pong/releases) to download the executable for your Windows.
+You can [click here](https://github.com/andreprolo/rusty_pong/releases) to download the executable for Windows.
 
 Or, you can [install rust](https://www.rust-lang.org/) and simply clone the respository and then execute the code with `cargo run`:
 
