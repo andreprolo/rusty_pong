@@ -32,7 +32,7 @@ You can <a>click here</a> to download the executable for your OS.
 Or if you have the rust programming language installed, you can simply clone the respository and then execute the code with `cargo run`:
 
 ```bash
-git clone bla bla
+git clone https://github.com/andreprolo/rusty_pong.git
 
 cd rusty_pong
 
